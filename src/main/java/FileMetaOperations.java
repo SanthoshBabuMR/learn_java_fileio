@@ -42,6 +42,5 @@ public class FileMetaOperations {
         System.out.println(String.format("file size: %s KB", df.format(fileSizeInKB)));
         System.out.println(String.format("file size: %s MB", df.format(fileSizeInMB)));
         System.out.println("\n");
-
     }
 }
